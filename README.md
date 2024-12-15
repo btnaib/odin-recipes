@@ -1,1 +1,2 @@
 # odin-recipes
+This is a basic HTML project to practice and demonstrate fundamental HTML skills. The website consists of a main index page with links to individual recipe pages. The focus is on creating well-structured and semantic HTML code.
